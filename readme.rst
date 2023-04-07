@@ -3,7 +3,9 @@ BELAJAR CODEIGNITER
 ###################
 
 NAMA : RIFQI KARUNIA I  3411201008
+       
        ADITYA M.G       3411201006
+       
        RYAD HELMI. F    3411201016
 
 *******************
